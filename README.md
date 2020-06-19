@@ -1,2 +1,2 @@
-# doc-info-covid
-Pagina com documentos e informações sobre o COVID para o Brasil
+# doc-info
+Pagina com sobre os documentos brasileiros para que servem e como tirar.
